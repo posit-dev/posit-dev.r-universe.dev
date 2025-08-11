@@ -1,0 +1,35 @@
+[
+  {
+    "package": "connectapi",
+    "url": "https://github.com/posit-dev/connectapi"
+  },
+  {
+    "package": "mcptools",
+    "url": "https://github.com/posit-dev/mcptools"
+  },
+  {
+    "package": "snowflakeauth",
+    "url": "https://github.com/posit-dev/snowflakeauth"
+  },
+  {
+    "package": "shinylive",
+    "url": "https://github.com/posit-dev/r-shinylive"
+  },
+  {
+    "package": "connectcreds",
+    "url": "https://github.com/posit-dev/connectcreds"
+  },
+  {
+    "package": "shinychat",
+    "url": "https://github.com/posit-dev/shinychat",
+    "subdir": "pkg-r"
+  },
+  {
+    "package": "btw",
+    "url": "https://github.com/posit-dev/btw"
+  },
+  {
+    "package": "plumber2",
+    "url": "https://github.com/posit-dev/plumber2"
+  }
+]
