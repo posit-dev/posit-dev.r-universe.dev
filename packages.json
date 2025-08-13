@@ -25,6 +25,11 @@
     "subdir": "pkg-r"
   },
   {
+    "package": "querychat",
+    "url": "https://github.com/posit-dev/querychat",
+    "subdir": "pkg-r"
+  },
+  {
     "package": "btw",
     "url": "https://github.com/posit-dev/btw"
   },
