@@ -36,5 +36,10 @@
   {
     "package": "plumber2",
     "url": "https://github.com/posit-dev/plumber2"
+  },
+  {
+    "package": "shinymedia",
+    "url": "https://github.com/posit-dev/shinymedia",
+    "subdir": "pkg-r"
   }
 ]
