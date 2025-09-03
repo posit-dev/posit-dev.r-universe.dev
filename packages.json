@@ -41,5 +41,10 @@
     "package": "shinymedia",
     "url": "https://github.com/posit-dev/shinymedia",
     "subdir": "pkg-r"
+  },
+  {
+    "package": "brand.yml",
+    "url": "https://github.com/posit-dev/brand-yml",
+    "subdir": "pkg-r"
   }
 ]
