@@ -46,5 +46,15 @@
     "package": "brand.yml",
     "url": "https://github.com/posit-dev/brand-yml",
     "subdir": "pkg-r"
-  }
+  },
+  {
+    "package": "tblcheck",
+    "url": "https://github.com/rstudio/tblcheck",
+    "subdir": "pkg-r"
+  },
+  {
+    "package": "ggcheck",
+    "url": "https://github.com/rstudio/ggcheck",
+    "subdir": "pkg-r"
+  }    
 ]
