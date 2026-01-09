@@ -50,5 +50,9 @@
   {
     "package": "frontmatter",
     "url": "https://github.com/posit-dev/frontmatter"
+  },
+  {
+    "package": "yaml12",
+    "url": "https://github.com/posit-dev/r-yaml12"
   }
 ]
