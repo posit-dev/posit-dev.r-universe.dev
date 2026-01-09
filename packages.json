@@ -46,5 +46,9 @@
     "package": "brand.yml",
     "url": "https://github.com/posit-dev/brand-yml",
     "subdir": "pkg-r"
+  },
+  {
+    "package": "frontmatter",
+    "url": "https://github.com/posit-dev/frontmatter"
   }
 ]
