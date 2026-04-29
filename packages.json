@@ -54,5 +54,9 @@
   {
     "package": "yaml12",
     "url": "https://github.com/posit-dev/r-yaml12"
+  },
+  {
+    "package": "ggsql",
+    "url": "https://github.com/posit-dev/ggsql-r"
   }
 ]
