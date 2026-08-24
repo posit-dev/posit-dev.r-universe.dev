@@ -61,6 +61,7 @@
   },
   {
     "package": "commons",
+    "subdir" : "pkg-r",
     "url": "https://github.com/posit-dev/commons"
   }
 ]
