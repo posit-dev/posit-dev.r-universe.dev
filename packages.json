@@ -63,5 +63,9 @@
     "package": "commons",
     "subdir" : "pkg-r",
     "url": "https://github.com/posit-dev/commons"
+  },
+  {
+    "package": "paparazzi",
+    "url": "https://github.com/posit-dev/paparazzi"
   }
 ]
